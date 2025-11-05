@@ -1,8 +1,9 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "graffers_id_assesment",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Harshit vishwakarma",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
